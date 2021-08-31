@@ -1,0 +1,2 @@
+# delicacybot
+Discordf Bot
